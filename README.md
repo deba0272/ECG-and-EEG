@@ -1,1 +1,1 @@
-# ECG-and-EEG
+# Electroencephalogram-ECG
