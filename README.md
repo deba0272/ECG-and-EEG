@@ -27,8 +27,8 @@ Explore the wealth of resources available in our repository:
 - Immerse yourself in a visual journey of mental stress assessment with a curated collection of graphical outputs generated from Raspberry Pi.
 
 ## Contact Us
-For inquiries, feedback, or collaboration opportunities, please reach out to at [deba9862@gmail.com].
+For inquiries,please reach out to at [deba9862@gmail.com].
 
-Thank you for embarking on this journey with us. Together, we're shaping the future of mental health monitoring—one line of code at a time.
+Thank you!!
 
 
