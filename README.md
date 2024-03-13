@@ -8,7 +8,7 @@ Our project, titled "Smart System Development for Multi-Modal Physiological Sign
 ### Stage I: Data Acquisition
 Currently, we are in Stage I of the project, focusing on gathering crucial physiological data. By interfacing with ECG and EEG circuits, as well as capturing skin impedance responses from GSR sensors, we lay the foundation for comprehensive physiological monitoring. Our aim is to seamlessly integrate these disparate signals into a compact and portable device, empowering individuals with insightful health metrics.
 
-### Part II: Machine Learning Optimization
+### Stage II: Machine Learning Optimization
 Following Stage I, we will transition into Stage II, delving into the realm of machine learning optimization. Leveraging the computational prowess of Raspberry Pi, we will conduct a series of trials, fine-tuning algorithms for peak performance. Through meticulous experimentation and analysis, we aim to unlock the potential to discern intricate patterns in physiological signals and translate them into actionable insights. The culmination of this phase will manifest in visually captivating graphs, offering a glimpse into the complex landscape of mental stress assessment.
 
 ## Unique Feature: Integrated Physiological Monitoring
